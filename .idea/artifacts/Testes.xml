@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Testes">
+    <output-path>$PROJECT_DIR$/../../../../../Minecraft/Servidores/Testes MiniGames/plugins</output-path>
+    <root id="archive" name="Testes.jar">
+      <element id="module-output" name="Testes" />
+    </root>
+  </artifact>
+</component>
